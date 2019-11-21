@@ -1,0 +1,14 @@
+.select2{
+    border: 1px solid #ced4da !important;
+    border-radius: 33.333rem;
+    width: 61% !important;
+    padding: 5px 10px;
+}
+
+.select2-container--default .select2-selection--single{
+    border: none;
+}
+
+.select2-selection__arrow{
+    margin: 5px 5px 0px 0px;
+}
